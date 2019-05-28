@@ -1,4 +1,4 @@
-# UPenn Robotics: Vision Intelligence and Machine Learning
+# Penn Robotics: Vision Intelligence and Machine Learning
 
 My coursework for the the EdX course by the University of Pennsylvania.
 
