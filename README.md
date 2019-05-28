@@ -2,7 +2,7 @@
 
 My coursework for the the EdX course by the University of Pennsylvania.
 
-Remaining code will not be uploaded.
+Remaining code will be uploaded soon.
 
 The course is free here: https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x
 
